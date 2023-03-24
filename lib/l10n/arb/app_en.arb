@@ -1,0 +1,35 @@
+{
+  "@@locale": "en",
+  "counterAppBarTitle": "Counter",
+  "@counterAppBarTitle": {
+    "description": "Text shown in the AppBar of the Counter Page"
+  },
+  "serverError": "Not able to connect to Server",
+  "@serverError": {
+    "description": "Text show when not able to connect to the Server"
+  },
+  "warmWater": "Warm Water",
+  "@warmWater": {
+    "description": "Warm Water"
+  },
+  "status": "Status",
+  "@status": {
+    "description": "Status"
+  },
+  "stopped": "Stopped",
+  "@stopped": {
+    "description": "Stopped"
+  },
+  "running": "Running",
+  "@running": {
+    "description": "Running"
+  },
+  "start": "Start",
+  "@start": {
+    "description": "Start"
+  },
+  "stop": "Stop",
+  "@stop": {
+    "description": "Stop"
+  }
+}
